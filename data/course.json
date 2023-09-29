@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ]
+  ],
+  "legacy_uid": "181fda68-38c2-009f-3398-75f941457e8a",
+  "instructors": {
+    "content": [
+      "3fc9b4ae-d4a4-5879-951d-b8c2d33565d1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e2f13e2c-acdd-033c-dec0-8ce11ec7306d",
+    "website": "17-537-politics-and-policy-in-contemporary-japan-spring-2009"
+  },
+  "course_title": "Politics and Policy in Contemporary Japan",
+  "course_description": "This subject is designed for upper level undergraduates and graduate students as an introduction to politics and the policy process in modern Japan. The semester is divided into two parts. After a two-week general introduction to Japan and to the dominant approaches to the study of Japanese history, politics and society, we will begin exploring five aspects of Japanese politics: party politics, electoral politics, interest group politics, bureaucratic politics, and policy, which will be broken up into seven additional sections. We will try to understand the ways in which the actors and institutions identified in the first part of the semester affect the policy process across a variety of issues areas.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "17.538",
+  "primary_course_number": "17.537",
+  "course_image_thumbnail": {
+    "content": "32b50b85-5959-4387-989b-94599c133191",
+    "website": "17-537-politics-and-policy-in-contemporary-japan-spring-2009"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "15ca19f5-5c8c-4ea2-a1f9-926091f6b70d",
+  "site_short_id": "17.537-spring-2009",
+  "title": "Course Metadata"
+}
